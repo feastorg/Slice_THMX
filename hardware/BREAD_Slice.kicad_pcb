@@ -4017,7 +4017,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "204be39f-b025-4a6b-aa92-9088f6083fe3")
 		(at 132.44 101.915 180)
@@ -4906,7 +4906,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "30271ff3-58b6-4dd1-b315-1687e74140a2")
 		(at 110.145 61.37 -90)
@@ -6838,7 +6838,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:DGN8_1P89X1P57"
+	(footprint "KMLib_IC_SMD:DGN8_1P89X1P57"
 		(layer "F.Cu")
 		(uuid "3db3ab07-dc5d-4da6-8b7c-3724899b7698")
 		(at 74.509465 121.828932 180)
@@ -7480,7 +7480,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "3e23c687-70f3-4674-9c58-9aa75ff36732")
 		(at 132.410001 77.585 180)
@@ -8868,7 +8868,7 @@
 			)
 		)
 	)
-	(footprint "SparkFun-LED:WS2812-5050-4PIN"
+	(footprint "KMLib_IC_SMD:WS2812-5050-4PIN"
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "4ec4e171-1549-4997-8479-26c2f6f0dd92")
@@ -12105,7 +12105,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "69cb78c7-6ee5-40ac-b27c-2580f63f8632")
 		(at 132.34 125.965 180)
@@ -12973,7 +12973,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "70881804-d350-4222-8150-0c675195f5b4")
 		(at 94.475 61.289999 -90)
@@ -14062,7 +14062,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "7cb8befe-472b-4eaa-be05-802d1d679a05")
 		(at 132.41 114.36 180)
@@ -14730,7 +14730,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "88eec731-e943-47bf-b52a-a3429f822a4f")
 		(at 122.59 61.4 -90)
@@ -15598,7 +15598,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:Thermal Pad"
+	(footprint "KMLib_Mounting:Thermal_Pad"
 		(layer "F.Cu")
 		(uuid "91f7aa6c-6edf-407e-9412-7655c2cabadb")
 		(at 66.774465 162.653932)
@@ -16494,7 +16494,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "9fa95ea1-a02c-479a-b7f9-a2861bb75ff8")
 		(at 132.34 150.295 180)
@@ -17762,7 +17762,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "aa6d5089-adf9-42d5-953b-a9f934f7422a")
 		(at 132.31 138.41 180)
@@ -18230,7 +18230,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "ae258868-81c8-4e41-924f-2fd1d98a6475")
 		(at 132.31 162.74 180)
@@ -19098,7 +19098,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "b0b65ce4-7eed-47d4-bb3e-bab0586f23d7")
 		(at 82.03 61.259998 -90)
@@ -20187,7 +20187,7 @@
 			)
 		)
 	)
-	(footprint "kml-custom:OMEGA_PCC-SMP-V-K"
+	(footprint "KMLib_Connectors:OMEGA_PCC-SMP-V-K"
 		(layer "F.Cu")
 		(uuid "b6b86846-f995-4dae-b714-3795a4b7382a")
 		(at 132.38 90.03 180)
