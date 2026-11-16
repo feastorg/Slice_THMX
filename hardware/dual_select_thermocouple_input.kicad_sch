@@ -835,7 +835,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "kml-custom:DF2S6.8MFS_L3M"
+		(symbol "KMLib_Discrete_Semiconductors:DF2S6.8MFS_L3M_ESD-TVS_Diode"
 			(pin_names
 				(offset 0.254)
 			)
@@ -933,7 +933,7 @@
 					)
 				)
 			)
-			(symbol "DF2S6.8MFS_L3M_0_1"
+			(symbol "DF2S6.8MFS_L3M_ESD-TVS_Diode_0_1"
 				(polyline
 					(pts
 						(xy 0 2.54) (xy -2.54 5.08)
@@ -1019,7 +1019,7 @@
 					)
 				)
 			)
-			(symbol "DF2S6.8MFS_L3M_1_1"
+			(symbol "DF2S6.8MFS_L3M_ESD-TVS_Diode_1_1"
 				(text "Cathode"
 					(at -4.826 -1.524 0)
 					(effects
@@ -1077,7 +1077,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "kml-custom:PCC-SMP-V-K"
+		(symbol "KMLib_Connectors:PCC-SMP-V-K_Board_Thermocouple"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1274,7 +1274,7 @@
 					(justify bottom)
 				)
 			)
-			(symbol "PCC-SMP-V-K_0_0"
+			(symbol "PCC-SMP-V-K_Board_Thermocouple_0_0"
 				(rectangle
 					(start -5.08 -5.08)
 					(end 5.08 7.62)
@@ -2807,7 +2807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:DF2S6.8MFS_L3M")
+		(lib_id "KMLib_Discrete_Semiconductors:DF2S6.8MFS_L3M_ESD-TVS_Diode")
 		(at 96.52 153.67 0)
 		(unit 1)
 		(body_style 1)
@@ -2910,7 +2910,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:PCC-SMP-V-K")
+		(lib_id "KMLib_Connectors:PCC-SMP-V-K_Board_Thermocouple")
 		(at 44.45 46.99 0)
 		(mirror y)
 		(unit 1)
@@ -3347,7 +3347,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:DF2S6.8MFS_L3M")
+		(lib_id "KMLib_Discrete_Semiconductors:DF2S6.8MFS_L3M_ESD-TVS_Diode")
 		(at 96.52 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -3670,7 +3670,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:DF2S6.8MFS_L3M")
+		(lib_id "KMLib_Discrete_Semiconductors:DF2S6.8MFS_L3M_ESD-TVS_Diode")
 		(at 96.52 170.18 0)
 		(unit 1)
 		(body_style 1)
@@ -3875,7 +3875,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:DF2S6.8MFS_L3M")
+		(lib_id "KMLib_Discrete_Semiconductors:DF2S6.8MFS_L3M_ESD-TVS_Diode")
 		(at 96.52 138.43 0)
 		(unit 1)
 		(body_style 1)
@@ -3978,7 +3978,7 @@
 		)
 	)
 	(symbol
-		(lib_id "kml-custom:PCC-SMP-V-K")
+		(lib_id "KMLib_Connectors:PCC-SMP-V-K_Board_Thermocouple")
 		(at 44.45 93.98 0)
 		(mirror y)
 		(unit 1)
